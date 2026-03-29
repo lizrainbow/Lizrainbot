@@ -1,0 +1,2 @@
+# Lizrainbot
+Liz Rainbow bot
